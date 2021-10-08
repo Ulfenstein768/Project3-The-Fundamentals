@@ -19,6 +19,9 @@ Agile methodologies such as User Stories, Backlog, Status Meetings and Sprints s
 Ása Þórdís Asgeirsdóttir, Jakub Mierzejek, Lóa Kristjánsdóttir, Stefán Snær Heimisson and Úlfur Þór Böðvarsson
 
 ## Tecnologies
-
+The technologies we used in this project
+* HTML
+* CSS/Sass
+* JavaScript
 
 
